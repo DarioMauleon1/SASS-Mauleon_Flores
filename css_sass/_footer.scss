@@ -1,0 +1,28 @@
+.footer{
+    background-color: blueviolet;
+    color: white;
+    .footerPadre {
+    display: flex;
+    justify-content: space-around;
+}
+}
+
+.footer__menu {
+    list-style: none;
+    a {
+        text-decoration: none;
+    }
+}
+.footer__credito {
+    text-align: center;
+    padding: 0.5rem;
+    font-size: 0.7rem;
+
+}
+
+.flexSuscribete  {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+   
+}

@@ -1,0 +1,14 @@
+.menu{
+    list-style: none;
+    padding: 0%;
+    justify-content:center;
+    li {
+        display: inline-block;
+    }
+    a {
+        text-decoration: none;
+        color: white;
+        background-color: blueviolet;
+        padding: 1rem;
+    }
+}
